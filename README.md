@@ -1,26 +1,12 @@
 # Lab01: Toolbox Functions
 
-Let's practice using some tool box functions! You may work with a partner for this one.
+# Shadertoy Links:
 
-# Setup 
+1. Pulsing Flower: https://www.shadertoy.com/view/M3lyDn
+![flower-1-ezgifcom-speed2](https://github.com/user-attachments/assets/dce72acc-1b38-45dc-b868-89d15ca85973)
 
-Create a [Shadertoy account](https://www.shadertoy.com/). Either fork this shadertoy, or create a new shadertoy and copy the code from the [Flower Puzzle](https://www.shadertoy.com/view/NsVBzy).
+2. Spinning Flower: https://www.shadertoy.com/view/X3fyW8
+![flower-2-ezgifcom-speed2](https://github.com/user-attachments/assets/7e82ec09-c9b6-43f0-b73a-02b9163b4ad3)
 
-# Puzzles
-
-Do your best to replicate the following simple graphics:
-
-1. Pulsing Flower
-![75f8b7ade447b2ad49c9f19aa0f190c9](https://user-images.githubusercontent.com/1758825/133500768-45b053c2-1885-4108-84a8-4cbf3f10318d.gif)
-
-2. Spinning Flower
-![dbd6b5b655de0843869f06d8f9871770](https://user-images.githubusercontent.com/1758825/133485625-8385c7ca-6015-4809-b8ad-3311df071889.gif)
-
-3. Modify the base code to create a new flower!
-- Ideas: add additional shapes, create an interior for the flower, change the animation, make your flower explode, add an animated background, use color gradients.
-
-# Submission
-- Create a pull request to this repository
-- In the README, include the names of both your team members
-- In the README, create a link to your shader toy solutions for these three prompts
-- Make sure all three of your shadertoys are set to UNLISTED or PUBLIC (so we can see them!)
+3. Modify the base code to create a new flower: https://www.shadertoy.com/view/lXXyD8
+![flower-3-ezgifcom-speed](https://github.com/user-attachments/assets/5d48cf07-3795-4804-a9dd-9bd9d03c8455)
