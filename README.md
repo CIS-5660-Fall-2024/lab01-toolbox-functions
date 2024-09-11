@@ -2,12 +2,17 @@
 
 Let's practice using some tool box functions! You may work with a partner for this one.
 
-[Problem 01](https://www.shadertoy.com/view/X3cGzX)
-![chrome-capture-2024-9-11](https://github.com/user-attachments/assets/a1db7b20-b3b3-4eaf-9510-ed1702eadf9a)
-[Problem 02](https://www.shadertoy.com/view/lXscDn)
-![chrome-capture-2024-9-11 (1)](https://github.com/user-attachments/assets/a7d393a0-6b7d-4f76-b420-46ef90e034b7)
-[Problem 03](https://www.shadertoy.com/view/X3XyD8)
-![chrome-capture-2024-9-11 (2)](https://github.com/user-attachments/assets/ee637ff0-35c1-4302-9d7a-f0068a63dcca)
+[Problem 01](https://www.shadertoy.com/view/X3cGzX)  
+
+![chrome-capture-2024-9-11](https://github.com/user-attachments/assets/a1db7b20-b3b3-4eaf-9510-ed1702eadf9a)  
+
+[Problem 02](https://www.shadertoy.com/view/lXscDn)  
+
+![chrome-capture-2024-9-11 (1)](https://github.com/user-attachments/assets/a7d393a0-6b7d-4f76-b420-46ef90e034b7)  
+
+[Problem 03](https://www.shadertoy.com/view/X3XyD8)  
+
+![chrome-capture-2024-9-11 (2)](https://github.com/user-attachments/assets/ee637ff0-35c1-4302-9d7a-f0068a63dcca)  
 
 
 # Setup 
