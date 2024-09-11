@@ -1,6 +1,12 @@
 # Lab01: Toolbox Functions
 
-Let's practice using some tool box functions! You may work with a partner for this one.
+Aaron Tian
+
+Puzzle 1: https://www.shadertoy.com/view/lXlyWn#
+
+Puzzle 2: https://www.shadertoy.com/view/lXlyDr
+
+Puzzle 3 (custom flower): https://www.shadertoy.com/view/43fcW8
 
 # Setup 
 
