@@ -1,3 +1,11 @@
+# Lab01: Christine Kneer
+
+Pulsing Flower: https://www.shadertoy.com/view/MXlcDn
+
+Spinning Flower: https://www.shadertoy.com/view/43fcD8
+
+Dizzy Flower: https://www.shadertoy.com/view/l3XcW8
+
 # Lab01: Toolbox Functions
 
 Let's practice using some tool box functions! You may work with a partner for this one.
