@@ -3,7 +3,9 @@
 Aaron Tian
 
 Puzzle 1: https://www.shadertoy.com/view/lXlyWn#
+
 Puzzle 2: https://www.shadertoy.com/view/lXlyDr
+
 Puzzle 3 (custom flower): https://www.shadertoy.com/view/43fcW8
 
 # Setup 
