@@ -1,7 +1,12 @@
 ## Links to the shadertoy works
-- Pulsing Flower:
-- Spinning Flower:
-- Customized Flower:
+![](images/01.gif)
+- Pulsing Flower: [Shadertoy](https://www.shadertoy.com/view/MXlcR7)
+
+![](images/02.gif)
+- Spinning Flower: [Shadertoy](https://www.shadertoy.com/view/MXlcz7)
+
+![](images/03.gif)
+- Customized Flower: [Shadertoy](https://www.shadertoy.com/view/4XXcWr)
 
 
 ## ----------------------------------------------------------------
