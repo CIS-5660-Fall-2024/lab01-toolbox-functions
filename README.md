@@ -3,8 +3,12 @@
 Let's practice using some tool box functions! You may work with a partner for this one.
 
 # Submission
+Team Members: Anthony Ge
+
 Flower 1: https://www.shadertoy.com/view/MXlcWn
+
 Flower 2: https://www.shadertoy.com/view/MXsyDn
+
 Flower 3: https://www.shadertoy.com/view/M3scDr
 
 # Setup 
