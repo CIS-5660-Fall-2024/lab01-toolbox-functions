@@ -1,6 +1,14 @@
 # Lab01: Toolbox Functions
 
-Let's practice using some tool box functions! You may work with a partner for this one.
+
+# Final Resualts
+-Group: Clara Nolan and Jill Rayca
+
+-Pulsing Flower: (https://www.shadertoy.com/view/4XlcDr)
+
+-Spinning Flower: (https://www.shadertoy.com/view/MXscWr)
+
+-Custom Flower: (https://www.shadertoy.com/view/l3lyDr#)
 
 # Setup 
 
