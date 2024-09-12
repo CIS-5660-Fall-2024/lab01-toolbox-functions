@@ -2,9 +2,15 @@
 
 Pulsing Flower: https://www.shadertoy.com/view/MXlcDn
 
+![](pulse.gif)
+
 Spinning Flower: https://www.shadertoy.com/view/43fcD8
 
+![](spin.gif)
+
 Dizzy Flower: https://www.shadertoy.com/view/l3XcW8
+
+![](dizzy.gif)
 
 # Lab01: Toolbox Functions
 
