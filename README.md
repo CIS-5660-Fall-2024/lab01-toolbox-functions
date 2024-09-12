@@ -8,18 +8,18 @@ Let's practice using some tool box functions! You may work with a partner for th
 
 My pulsing flower [LINK](https://www.shadertoy.com/view/XXscDr).
 
-
+![](pulsing.gif)
 
 
 ## Puzzle 2: Spinning Flower
 
 My spinning flower [LINK](https://www.shadertoy.com/view/l3syDn).
-
+![](spinning.gif)
 
 ## Puzzle 3: MY Flower
 
 My spinning flower [LINK](https://www.shadertoy.com/view/X3fcD8).
-
+![](custom.gif)
 
 
 
