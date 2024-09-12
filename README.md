@@ -2,6 +2,27 @@
 
 Let's practice using some tool box functions! You may work with a partner for this one.
 
+# Lab 1 Result
+
+## Puzzle 1: Pulsing Flower
+
+My pulsing flower [LINK](https://www.shadertoy.com/view/XXscDr).
+
+![](pulsing.gif)
+
+
+## Puzzle 2: Spinning Flower
+
+My spinning flower [LINK](https://www.shadertoy.com/view/l3syDn).
+![](spinning.gif)
+
+## Puzzle 3: MY Flower
+
+My spinning flower [LINK](https://www.shadertoy.com/view/X3fcD8).
+![](custom.gif)
+
+
+
 # Setup 
 
 Create a [Shadertoy account](https://www.shadertoy.com/). Either fork this shadertoy, or create a new shadertoy and copy the code from the [Flower Puzzle](https://www.shadertoy.com/view/NsVBzy).
